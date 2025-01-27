@@ -17,4 +17,4 @@ To make ShrokAI even more engaging and useful, here are some of our ideas for it
 4)Introduce paid features like access to exclusive jokes or memes paid for with the project tokens themselves.
 
 
-![brainiac](https://github.com/user-attachments/assets/d3dc8248-d4f7-469d-9818-9582a36f0497)
+  ![brainiac](https://github.com/user-attachments/assets/d3dc8248-d4f7-469d-9818-9582a36f0497)
